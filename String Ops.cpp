@@ -21,3 +21,4 @@ printf("Number of vowels in string :- %d\n",vow);
 printf("Copy of string :- %s",str2);
 return 0;
 }
+/*fumi fumi ! */ 
